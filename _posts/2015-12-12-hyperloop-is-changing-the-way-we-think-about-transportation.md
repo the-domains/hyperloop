@@ -11,8 +11,8 @@ description: 'We are the company that is making Hyperloop a reality. Hyperloop T
 app_links: []
 isBasedOnUrl: 'http://hyperlooptech.com/'
 title: Hyperloop is changing the way we think about transportation
-datePublished: '2015-12-12T01:52:31.537Z'
-dateModified: '2015-12-12T01:51:45.201Z'
+datePublished: '2015-12-12T01:57:00.487Z'
+dateModified: '2015-12-12T01:50:17.075Z'
 sourcePath: _posts/2015-12-12-hyperloop-is-changing-the-way-we-think-about-transportation.md
 published: true
 inFeed: true
