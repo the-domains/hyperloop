@@ -1,6 +1,6 @@
 name: Hyperloop
 favicon: null
-layout_spectrum: 0.5448177016805857
+layout_spectrum: 0.65986
 typography_spectrum: 0.630361441290006
 title: The 5th mode of transportation
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6440752220805734
+    - '#010101'
+    - '#72777b'
+    - '#fefefe'
+    - '#383838'
+    - '#afb0b4'
+  brandStrength: 0.5
   lightness: 0.33057539304718375
-  saturation: 0.6195263646077365
-  rhythmicContrast: 0.6194061581045389
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
