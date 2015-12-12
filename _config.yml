@@ -1,0 +1,28 @@
+name: Hyperloop
+favicon: null
+layout_spectrum: 0.5448177016805857
+typography_spectrum: 0.630361441290006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6440752220805734
+  lightness: 0.33057539304718375
+  saturation: 0.6195263646077365
+  rhythmicContrast: 0.6194061581045389
+purpose: []
