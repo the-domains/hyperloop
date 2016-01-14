@@ -4,11 +4,18 @@
         <description><![CDATA[The 5th mode of transportation]]></description>
         <link>https://thegrid.ai/hyperloop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 22:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 23:38:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hyperloop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://bloximages.chicago2.vip.townnews.com/bctv.org/content/tncms/assets/v3/editorial/1/ef/1ef55966-ba26-11e5-bdd1-37b5625e2103/56969bec38204.image.jpg?resize=300%2C155">]]></description>
+            <link>https://thegrid.ai/hyperloop/5ac14431-14d9-4749-af2e-399f1bb400fb/index.html</link>
+            <guid isPermaLink="false">5ac14431-14d9-4749-af2e-399f1bb400fb</guid>
+            <pubDate>Thu, 14 Jan 2016 23:38:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Year in Science 2015]]></title>
-            <description><![CDATA[<article><h1>This Year in Science 2015</h1><p>This year was HUGE for science! From robot intelligence to deep space exploration, we touched upon it all in this video compilation</p></article>]]></description>
+            <description><![CDATA[<article><h1>This Year in Science 2015</h1><p>This year was HUGE for science! From robot intelligence to deep space exploration, we touched upon it all in this video compilation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d549117fdee4427c3c2a736f8703411de60bd0ca.jpg"></article>]]></description>
             <link>https://vimeo.com/150277612</link>
             <guid isPermaLink="false">e441c5de-a14f-42e0-b190-efc372cb21d8</guid>
             <pubDate>Wed, 30 Dec 2015 22:26:58 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://hyperlooptech.com/img/campus.jpg">]]></description>
             <link>https://thegrid.ai/hyperloop/284bfe19-0bdb-4b70-b1db-2e9174d365b3/index.html</link>
             <guid isPermaLink="false">284bfe19-0bdb-4b70-b1db-2e9174d365b3</guid>
-            <pubDate>Sat, 12 Dec 2015 01:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://hyperlooptech.com/img/levitation_rig.png">]]></description>
-            <link>https://thegrid.ai/hyperloop/c0ddd6fc-e785-4fc7-a5bb-ada5103f186f/index.html</link>
-            <guid isPermaLink="false">c0ddd6fc-e785-4fc7-a5bb-ada5103f186f</guid>
             <pubDate>Sat, 12 Dec 2015 01:56:45 GMT</pubDate>
         </item>
     </channel>
