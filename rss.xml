@@ -4,8 +4,15 @@
         <description><![CDATA[The 5th mode of transportation]]></description>
         <link>https://thegrid.ai/hyperloop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 23:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 16:50:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hyperloop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drexel Hyperloop Team moves forward in SpaceX competition - The Triangle]]></title>
+            <description><![CDATA[<article><h1>Drexel Hyperloop Team moves forward in SpaceX competition - The Triangle</h1><p>Drexel University's Hyperloop Team has been working since June 2015 to be one of the world's first to design and build a working model of Elon Musk's vision of Hyperloop travel pods. The team, composed of about 87 dedicated undergraduate students and an advising board of 11 professors, has successfully passed through the preliminary design competition and will participate in the Texas A&M Design Weekend Jan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3def01ca637af89ce07abd0dce179c989cc60079.jpg"></article>]]></description>
+            <link>http://thetriangle.org/news/drexel-hyperloop-team-moves-forward-in-spacex-competition/</link>
+            <guid isPermaLink="false">f209a4c8-3356-43d9-8ad9-33f2bf9ef5fe</guid>
+            <pubDate>Mon, 18 Jan 2016 16:50:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://bloximages.chicago2.vip.townnews.com/bctv.org/content/tncms/assets/v3/editorial/1/ef/1ef55966-ba26-11e5-bdd1-37b5625e2103/56969bec38204.image.jpg?resize=300%2C155">]]></description>
@@ -68,13 +75,6 @@
             <link>http://hyperlooptech.com/</link>
             <guid isPermaLink="false">54d7dfa1-ce0c-48ab-9cdc-f4acbed9e8ba</guid>
             <pubDate>Sat, 12 Dec 2015 01:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://hyperlooptech.com/img/campus.jpg">]]></description>
-            <link>https://thegrid.ai/hyperloop/284bfe19-0bdb-4b70-b1db-2e9174d365b3/index.html</link>
-            <guid isPermaLink="false">284bfe19-0bdb-4b70-b1db-2e9174d365b3</guid>
-            <pubDate>Sat, 12 Dec 2015 01:56:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
